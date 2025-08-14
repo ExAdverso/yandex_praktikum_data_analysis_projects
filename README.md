@@ -8,18 +8,18 @@ Repository containing portfolio of data analysys projects completed by Alexey Sl
     <td width=20%>Библиотеки</td>
   </tr>
         <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/16-steel_temperature">Steel temperature</a></td>
-    <td>In order to optimize production costs, the steelworks of So Hardening Steel Ltd. decided to reduce the electricity consumption during the steel processing phase. You will have to build a model that predicts the temperature of the steel.</td>
-    <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
+    <td><a href="1. Итоговый проект, Метанпромбанк/Итоговый проект, Метанпромбанк.ipynb">Анализ оттока клиентов для банка</a></td>
+    <td>Анализ клиентов регионального банка, выделение сегментов, склонных уходить из банка. Формирование рекомендаций для снижения оттока.</td>
+    <td>python, pandas, numpy, scipy, matplotlib, seaborn, math, предобработка, EDA, визуализация данных, корреляционный анализ, проверка статистических гипотез, t-тест, тест тест Манна-Уитни</td>
   </tr>
       <tr>
     <td><a href="2. Анализ результатов A/B теста, приоритизация гипотез">Анализ результатов A/B теста, приоритизация гипотез.</a></td>
     <td>Анализ результатов A/B теста, приоритизация гипотез по увеличению выручки интернет-магазина.</td>
-    <td>pandas, numpy, matplotlib, seaborn, scipy, datetime, предобработка, визуализация данных</td>
+    <td>python, pandas, numpy, matplotlib, seaborn, scipy, datetime, предобработка, EDA, визуализация данных</td>
   </tr>
     <tr>
     <td><a href="3. Прогнозирование оттока и стратегия взаимодействия с клиентами для сети фитнес-центров">Прогнозирование оттока и стратегия взаимодействия с клиентами для сети фитнес-центров</a></td>
     <td>Анализ данных посетителей фитнес-центра. Построены модели прогнозирования оттока клиентов при помощи моделей логичестическая регрессия и случайный лес. Проведена кластеризация, Сформированы типичные портреты посетителей, выделены наиболее яркие группы и их характеристики. Выделены признаки, влияющие на отток.</td>
-    <td>pandas, numpy, matplotlib, seaborn, scipy, sklearn, предобработка, визуализация данных, кластеризация</td>
+    <td>pandas, numpy, matplotlib, seaborn, scipy, sklearn, предобработка, EDA, визуализация данных, кластеризация</td>
   </tr>
   <tr>
