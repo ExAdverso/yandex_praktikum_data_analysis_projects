@@ -28,24 +28,3 @@ Repository containing portfolio of data analysys projects completed by Alexey Sl
     <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/12-predicting-taxi-trips">Predicting taxi trips</a></td>
-    <td>Trained a Machine Learning model to predict the number of taxi trips for the next hour.</td>
-    <td>Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/11-car-price-prediction">Car price prediction</a></td>
-    <td>Trained the Machine Learning model to determine the market value of the car.</td>
-    <td>Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/10-the-algorithm-for-data-protection">The Algorithm for data protection</a></td>
-    <td>The personal information of the clients of the insurance company was protected (encrypted), using the data conversion method..</td>
-    <td>Pandas, Seaborn, Numpy, Sklearn, Machine Learning</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/09-machine-learning-model-for-a-metalworking-enterprise">Machine Learning Model for a metalworking enterprise</a></td>
-    <td>Developed a model predicting the recovery rate of gold from gold ore.
-The model helped to optimize production in order not to launch a plant with unprofitable characteristics.</td>
-    <td>Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning</td>
-  </tr>
-  <tr>
