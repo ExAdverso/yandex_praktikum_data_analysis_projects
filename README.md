@@ -13,8 +13,8 @@ Repository containing portfolio of data analysys projects completed by Alexey Sl
     <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
   </tr>
       <tr>
-    <td><a href="2. Анализ результатов A\B теста, приоритизация гипотез">Анализ результатов A\B теста, приоритизация гипотез.</a></td>
-    <td>Анализ результатов A\B теста, приоритизация гипотез по увеличению выручки интернет-магазина.</td>
+    <td><a href="2. Анализ результатов A/B теста, приоритизация гипотез">Анализ результатов A/B теста, приоритизация гипотез.</a></td>
+    <td>Анализ результатов A/B теста, приоритизация гипотез по увеличению выручки интернет-магазина.</td>
     <td>pandas, numpy, matplotlib, seaborn, scipy, datetime, предобработка, визуализация данных</td>
   </tr>
     <tr>
