@@ -1,5 +1,5 @@
 # Yandex.Praktikum data analysys projects
-Repository containing portfolio of data analysys projects completed by Alexey Slinko during the training courses at at <a href="https://praktikum.yandex.ru/">Yandex.Praktikum</a>. Presented in the form of Jupyter Notebooks and readme markdown files. 
+Repository containing portfolio of data analysis projects completed by Alexey Slinko during the training courses at at <a href="https://praktikum.yandex.ru/">Yandex.Praktikum</a>. Presented in the form of Jupyter Notebooks and readme markdown files. 
 
 <table width=100% valign=top >
   <tr>
