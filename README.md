@@ -23,8 +23,3 @@ Repository containing portfolio of data analysys projects completed by Alexey Sl
     <td>pandas, numpy, matplotlib, seaborn, scipy, sklearn, предобработка, визуализация данных, кластеризация</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/13-classifying-comments">Classifying comments</a></td>
-    <td>Speeded up the moderation of comments by automating their toxicity assessment. Trained the model to classify comments as toxic and non-toxic.</td>
-    <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
-  </tr>
-  <tr>
