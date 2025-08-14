@@ -49,24 +49,3 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/08-development-of-new-oil-fields">Development of new oil fields</a></td>
-    <td>Decided in which region to extract oil. Built a machine learning model that helped determine the region where mining will bring the most profit with the least risk of loss.</td>
-    <td>Pandas, Sklearn, Math, Numpy, Seaborn, Matplotlib, SciPy, Bootstrap, Machine Learning</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/07-bank-churn-prediction">Bank Churn prediction</a></td>
-    <td>Analysis of the outflow of clients from the bank to select a strategy (retaining old clients or attracting new clients)</td>
-    <td>Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/06-classifying-profitable-plan-for-a-telecom-company">Classifying profitable plan for a telecom company</a></td>
-    <td>Built the first Machine Learning model for the classification problem, which finds a suitable tariff</td>
-    <td>Machine Learning, Pandas, Numpy, Python, Seaborn</td>
-  </tr>
-  <tr>
-  <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/05-patterns-that-determine-the-success-of-game-platforms">Patterns that determine the success of game platforms.</a></td>
-    <td>Using historical data on sales of computer games, user and expert ratings, genres and platforms. I identified patterns that determine the success of a game
-</td>
-    <td>Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn, SciPy</td>
-  </tr>
-  <tr>
