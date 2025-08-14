@@ -18,7 +18,7 @@ Repository containing portfolio of data analysys projects completed by Alexey Sl
     <td>Pandas, keras, Matplotlib, Seaborn, Computer Vision, Machine Learning</td>
   </tr>
     <tr>
-    <td><a href="3. Прогнозирование оттока и стратегия взаимодействия с клиентами для сети фитнес-центров">Data Research of airline company</a></td>
+    <td><a href="3. Прогнозирование оттока и стратегия взаимодействия с клиентами для сети фитнес-центров">Прогнозирование оттока и стратегия взаимодействия с клиентами для сети фитнес-центров</a></td>
     <td>Perform uploads and preparation of airline data using SQL, test the hypothesis about the difference in average demand for tickets during different events</td>
     <td>SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing</td>
   </tr>
