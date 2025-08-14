@@ -19,8 +19,8 @@ Repository containing portfolio of data analysys projects completed by Alexey Sl
   </tr>
     <tr>
     <td><a href="3. Прогнозирование оттока и стратегия взаимодействия с клиентами для сети фитнес-центров">Прогнозирование оттока и стратегия взаимодействия с клиентами для сети фитнес-центров</a></td>
-    <td>Perform uploads and preparation of airline data using SQL, test the hypothesis about the difference in average demand for tickets during different events</td>
-    <td>SQL, Python, Pandas, Matplotlib, SciPy, Statistical hypothesis testing</td>
+    <td>Анализ данных посетителей фитнес-центра. Построены модели прогнозирования оттока клиентов при помощи моделей логичестическая регрессия и случайный лес. Проведена кластеризация, Сформированы типичные портреты посетителей, выделены наиболее яркие группы и их характеристики. Выделены признаки, влияющие на отток.</td>
+    <td>pandas, numpy, matplotlib, seaborn, scipy, sklearn, предобработка, визуализация данных, кластеризация</td>
   </tr>
   <tr>
     <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/tree/main/13-classifying-comments">Classifying comments</a></td>
