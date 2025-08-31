@@ -13,7 +13,7 @@ Repository containing portfolio of data analysis projects completed during the t
     <td>python, pandas, numpy, scipy, matplotlib, seaborn, math, предобработка, EDA, визуализация данных, корреляционный анализ, проверка статистических гипотез, t-тест, тест тест Манна-Уитни</td>
   </tr>
       <tr>
-     <td><a href="[2. Анализ результатов A/B теста, приоритизация гипотез](https://github.com/ExAdverso/yandex_praktikum_data_analysis_projects/tree/main/2.%20Анализ%20результатов%20A%5CB%20теста%2C%20приоритизация%20гипотез)">Анализ результатов A\B теста, приоритизация гипотез</a></td>
+    <td><a href="2. Анализ результатов A\B теста, приоритизация гипотез">Анализ результатов A\B теста, приоритизация гипотез</a></td>
     <td>Проанализированы результаты A/B теста, проведена приоритизация гипотез по увеличению выручки интернет-магазина.</td>
     <td>python, pandas, numpy, matplotlib, seaborn, scipy, datetime, предобработка, EDA, визуализация данных</td>
   </tr>
